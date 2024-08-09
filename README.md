@@ -139,7 +139,6 @@ Another collection of tips can be found [here](https://github.com/xamarin/xamari
 
 .NET (including the android-samples repo) is licensed under the [MIT license](./LICENSE).
 
-
 ## Code of conduct
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](https://contributor-covenant.org) to clarify expected behavior in our community. For more information, see the [.NET Foundation Code of Conduct](https://www.dotnetfoundation.org/code-of-conduct).
